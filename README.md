@@ -1,4 +1,4 @@
-#  vetkeys-motoko DApp
+#  Vetkeys Motoko DApp
 
 ![Internet Computer](https://img.shields.io/badge/Internet_Computer-ICP-blue?style=for-the-badge&logo=internetcomputer)
 ![Motoko](https://img.shields.io/badge/Motoko-orange?style=for-the-badge&logo=motoko)
