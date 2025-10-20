@@ -104,13 +104,20 @@ Langkah-langkah ini akan menjalankan aplikasi di komputer Anda.
 
 ---
 
-## 6. Mainnet Deployment### Acquiring Cycles
+## 6. Mainnet Deployment
 
-Deploy ke mainnet (jaringan publik ICP) membutuhkan "Cycles" untuk membayar komputasi dan penyimpanan.* Anda bisa mendapatkan cycles gratis dari [ICP Faucet](https://faucet.dfinity.org/) untuk developer.* Atau, Anda dapat mengonversi token ICP menjadi Cycles.### Deploying to 'ic' (Mainnet)
+### Acquiring Cycles
+Deploy ke mainnet (jaringan publik ICP) membutuhkan "Cycles" untuk membayar komputasi dan penyimpanan.
+* Anda bisa mendapatkan cycles gratis dari [ICP Faucet](https://faucet.dfinity.org/) untuk developer.
+* Atau, Anda dapat mengonversi token ICP menjadi Cycles.
 
-Setelah Anda memiliki Cycles di *principal identity* Anda, jalankan:```bash
+### Deploying to 'ic' (Mainnet)
+Setelah Anda memiliki Cycles di *principal identity* Anda, jalankan:
 
+```bash
 dfx deploy --network ic
+
+---
 
 ## 7. Credits 👤
 
