@@ -116,7 +116,6 @@ Setelah Anda memiliki Cycles di *principal identity* Anda, jalankan:
 ```bash
 dfx deploy --network ic
 
-## Credits 👤
-
-### Pembuat (Builder)
-**Rizky Fadil**
+## 7. Credits 👤
+Builder
+Rizky Fadil
